@@ -1,6 +1,7 @@
 """
 used streamlit platform to host the app
-https url: https://sumitmetri-todo-web-app-web-214w2l.streamlit.app/
+https url using streamlit cloud: https://sumitmetri-todo-web-app-web-214w2l.streamlit.app/
+https url using Railway.app : https://web-production-89c7.up.railway.app/
 """
 
 import streamlit as st
