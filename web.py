@@ -1,3 +1,8 @@
+"""
+used streamlit platform to host the app
+https url: https://sumitmetri-todo-web-app-web-214w2l.streamlit.app/
+"""
+
 import streamlit as st
 import functions
 
